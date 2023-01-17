@@ -1,0 +1,4 @@
+C:\Users\skyle\AppData\Local\Programs\Python\Python310\python.exe C:/Users/skyle/PycharmProjects/osu-261-project/runnint_text.py
+This is an acceptable version of Python, version 3.10.
+
+Process finished with exit code 0
