@@ -6,4 +6,3 @@
 # Description: gradescope test
 def gradescope_test():
     return 42
-
